@@ -1,0 +1,17 @@
+//Items\\
+item.first_item.name=Fuck you
+item.ruby_item.name=Ruby Gem
+item.lemons_item.name=Lemon
+item.tutorial_pickaxe.name=Ruby Pickaxe
+item.empty_glass.name=Empty Glass
+item.lemonade_glass.name=Lemonade
+item.juicer.name=Juicer
+item.tristan_glass.name=Tristan's Concoction (also fuck you)
+item.cobalt_pickaxe.name=Cobalt Pickaxe
+item.cobalt_axe.name=Cobalt Axe
+item.cobalt_shovel.name=Cobalt Shovel
+
+//Blocks\\
+tile.ruby_block.name=Ruby Block
+tile.ruby_ore.name=Ruby Ore
+tile.lemon_log.name=Lemon Log
