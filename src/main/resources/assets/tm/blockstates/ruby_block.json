@@ -1,0 +1,9 @@
+{  "forge_marker": 1,
+  "defaults": { 
+    "model": "tm:ruby_block"
+  },
+  "variants": { 
+    "normal": [{}], 
+    "inventory": [{}]
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "tm:lemon_sapling" },
+        "stage=1": { "model": "tm:lemon_sapling" }
+    }
+}

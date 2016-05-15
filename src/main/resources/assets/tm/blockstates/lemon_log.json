@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "tm:lemon_log" },
+        "axis=z":     { "model": "tm:lemon_log", "x": 90 },
+        "axis=x":     { "model": "tm:lemon_log", "x": 90, "y": 90 },
+        "axis=none":   { "model": "tm:lemon_bark" }
+    }
+}
